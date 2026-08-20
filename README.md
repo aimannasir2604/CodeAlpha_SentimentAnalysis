@@ -128,4 +128,3 @@ CodeAlpha_SentimentAnalysis/
 ├── README.md
 ├── CodeAlpha_Task4_Sentiment_Analysis.ipynb
 ├── requirements.txt
-└── screenshots/
